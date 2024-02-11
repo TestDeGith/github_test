@@ -1,5 +1,5 @@
 export GH_USERNAME='herpriz2'
-export GH_TOKEN='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'
+export GH_TOKEN=''
 GH_IMAGE_NAME='hello-world'
 export GH_VER='1.0.0'
 export TAG_NAME="ghcr.io/$GH_USERNAME/GH_IMAGE_NAME:$GH_VER"
